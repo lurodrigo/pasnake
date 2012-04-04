@@ -1,4 +1,3 @@
-
 This is probably the first *big* thing I made in programming (having more than
 1200 lines), in late 2009 (October if I remember). I think that it was a pretty
 good jog for someone with only three hexamesters of experience with any kind of 
@@ -11,7 +10,7 @@ will be interested in Pascal nowadays.
 
 === **Making it run** ===
 
-- Download and compile it using Turbo Pascal 4.5 (I don't even have a copy of it
+- Download and compile it using Turbo Pascal 7.0 (I don't even have a copy of it
 anymore)
 - Set the console window size to 80x50.
 - Put fullscreen on.
