@@ -185,7 +185,7 @@ begin
 	
 	cheat[ChildCheat].password:= 'PTRPN';
 	cheat[ChildCheat].description:= 
-'With "Peter Pan" cheat, the snake will ever be little and won''t ever grow, like your dick.';
+'With "Peter Pan" cheat, the snake will ever be little and won''t ever grow.';
 	cheat[ChildCheat].activated:= false;
 	
 	cheat[SlowlyCrazyFoodCheat].password:= 'SPDFLGHT';
