@@ -12,6 +12,6 @@ will be interested in Pascal nowadays.
 
 - Download and compile it using Turbo Pascal 7.0 (I don't even have a copy of it
 anymore)
-- Set the console window size to 80x50.
+- Set the console window size to 80x52.
 - Put fullscreen on.
 - Enjoy :)
